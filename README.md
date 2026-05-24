@@ -29,7 +29,7 @@
 
 | No. | 検体（型） | 主要所見 | 診断記事 |
 |-----|-----------|----------|----------|
-| [001](./specimens/001-trendfollow-scalp-stoch-ema/) | トレンドフォロー型スキャルピング（Stoch+EMA+ATR利確+固定SL） | 決済不発・未来リーク・スプレッド制限空回り。RR1:6〜1:15の利小損大 | https://zenn.dev/semura_lab/articles/ad67ce1279fe1a |
+| [001](./specimens/001-trendfollow-scalp-stoch-ema/) | トレンドフォロー型スキャルピング（Stoch+EMA+ATR利確+固定SL） | 決済不発・未来リーク・スプレッド制限空回り。RR1:6〜1:15の利小損大 | https://zenn.dev/semura_lab/articles/ad67ce1279fe1a https://medium.com/@griffice3/anatomy-of-a-high-win-rate-ea-that-loses-on-a-live-account-reverse-engineering-a-b1cea8eb2d4f |
 
 ---
 
