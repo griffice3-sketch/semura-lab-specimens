@@ -31,5 +31,5 @@
 
 ## 記事URL
 
-- Zenn(日本語): （公開後にここへ記入）
-- Medium(英語): （公開後にここへ記入）
+- Zenn(日本語): https://zenn.dev/semura_lab/articles/129a676f73d878
+- Medium(英語): https://medium.com/@griffice3/when-an-ea-has-no-strategy-dissecting-a-589-line-scalper-c559a4364f2c
