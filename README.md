@@ -31,6 +31,7 @@
 |-----|-----------|----------|----------|
 | [001](./specimens/001-trendfollow-scalp-stoch-ema/) | トレンドフォロー型スキャルピング（Stoch+EMA+ATR利確+固定SL） | 決済不発・未来リーク・スプレッド制限空回り。RR1:6〜1:15の利小損大 | https://zenn.dev/semura_lab/articles/ad67ce1279fe1a https://medium.com/@griffice3/anatomy-of-a-high-win-rate-ea-that-loses-on-a-live-account-reverse-engineering-a-b1cea8eb2d4f |
 | [002](./specimens/002-trendfollow-scalp-sar-sellfix/) | トレンドフォロー型スキャルピング（SAR想定／方向判定なし・売り固定） | 方向判定ロジック全コメントアウトで売り固定・実効SLにスプレッド上乗せ・名ばかりリスク率。RRは利大損小だがエッジ皆無 | https://zenn.dev/semura_lab/articles/129a676f73d878 https://medium.com/@griffice3/when-an-ea-has-no-strategy-dissecting-a-589-line-scalper-c559a4364f2c |
+| [003](./specimens/003-doa-straddle-ea) | ブレイクアウト・ストラドル型EA<br>（無条件両建て / 待機注文追従型） | 追随判定の数理的破綻（価格加算）・環境認識フィルタ完全不在で無条件発注・極小TP/SLでの両建てによる二重コスト。構造的な確死 | https://zenn.dev/semura_lab/articles/521617d71e3ec8<br>https://medium.com/@griffice3/adding-prices-instead-of-subtracting-dissecting-a-logic-breakdown-in-an-unfiltered-straddle-ea-2f33da4d5a91 |
 
 ---
 
