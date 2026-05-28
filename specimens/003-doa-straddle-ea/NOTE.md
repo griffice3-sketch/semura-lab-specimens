@@ -32,5 +32,5 @@
 
 ## 記事URL
 
-- Zenn(日本語): [公開後に追記]
-- Medium(英語): [公開後に追記]
+- Zenn(日本語): https://zenn.dev/semura_lab/articles/521617d71e3ec8
+- Medium(英語): https://medium.com/@griffice3/adding-prices-instead-of-subtracting-dissecting-a-logic-breakdown-in-an-unfiltered-straddle-ea-2f33da4d5a91
