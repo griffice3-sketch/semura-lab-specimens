@@ -32,5 +32,5 @@
 
 ## 記事URL
 
-- Zenn(日本語): [※記事公開後にURLを挿入]
-- Medium(英語): [※記事公開後にURLを挿入]
+- Zenn(日本語): https://zenn.dev/semura_lab/articles/55385603a74854
+- Medium(英語): https://medium.com/@griffice3/ea-dissection-log-004-the-madness-of-a-185x-multiplier-dissecting-the-ruinous-structure-and-c7f9e4382056
