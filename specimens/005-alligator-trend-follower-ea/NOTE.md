@@ -32,5 +32,5 @@
 
 ## 記事URL
 
-- Zenn(日本語): TBD (未公開)
-- Medium(英語): TBD (未公開)
+- Zenn(日本語): https://zenn.dev/semura_lab/articles/5678868c542bd9
+- Medium(英語): https://medium.com/@griffice3/code-level-autopsy-of-sniperjaw-ea-when-flawed-wiring-destroys-trading-logic-991c9424533c
