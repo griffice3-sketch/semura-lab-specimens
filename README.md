@@ -33,6 +33,7 @@
 | [002](./specimens/002-trendfollow-scalp-sar-sellfix/) | トレンドフォロー型スキャルピング（SAR想定／方向判定なし・売り固定） | 方向判定ロジック全コメントアウトで売り固定・実効SLにスプレッド上乗せ・名ばかりリスク率。RRは利大損小だがエッジ皆無 | https://zenn.dev/semura_lab/articles/129a676f73d878 https://medium.com/@griffice3/when-an-ea-has-no-strategy-dissecting-a-589-line-scalper-c559a4364f2c |
 | [003](./specimens/003-doa-straddle-ea) | ブレイクアウト・ストラドル型EA<br>（無条件両建て / 待機注文追従型） | 追随判定の数理的破綻（価格加算）・環境認識フィルタ完全不在で無条件発注・極小TP/SLでの両建てによる二重コスト。構造的な確死 | https://zenn.dev/semura_lab/articles/521617d71e3ec8<br>https://medium.com/@griffice3/adding-prices-instead-of-subtracting-dissecting-a-logic-breakdown-in-an-unfiltered-straddle-ea-2f33da4d5a91 |
 | [004](./specimens/004-hedge-martingale-ea) | 両建てヘッジ・変則マーチンゲール型EA（両建てロック / 逆行ナンピン加重平均決済） | 配列オーバーランのバグ（未定義動作）・最大185倍に膨張する過剰最適化された不規則ロット配列・両建てロックによる最大DDの意図的隠蔽。一撃のトレンドで口座全損する破滅構造 | https://zenn.dev/semura_lab/articles/55385603a74854 https://medium.com/@griffice3/ea-dissection-log-004-the-madness-of-a-185x-multiplier-dissecting-the-ruinous-structure-and-c7f9e4382056 |
+| [005](./specimens/005-alligator-trend-follower-ea) | 古典的な順張りトレンドフォロー型EA（Alligator指標 / 単一ポジション / ドテン決済） | 未確定足（インデックス0）参照によるリペイントの罠・昇順決済ループによる配列破壊バグ・マジックナンバー欠落による他ポジション誤爆。バックテストの数値を根本から歪め、実稼働を不全にする致命的な配線ミス | https://zenn.dev/semura_lab/articles/5678868c542bd9 https://medium.com/@griffice3/code-level-autopsy-of-sniperjaw-ea-when-flawed-wiring-destroys-trading-logic-991c9424533c |
 
 ---
 
