@@ -34,6 +34,7 @@
 | [003](./specimens/003-doa-straddle-ea) | ブレイクアウト・ストラドル型EA<br>（無条件両建て / 待機注文追従型） | 追随判定の数理的破綻（価格加算）・環境認識フィルタ完全不在で無条件発注・極小TP/SLでの両建てによる二重コスト。構造的な確死 | https://zenn.dev/semura_lab/articles/521617d71e3ec8<br>https://medium.com/@griffice3/adding-prices-instead-of-subtracting-dissecting-a-logic-breakdown-in-an-unfiltered-straddle-ea-2f33da4d5a91 |
 | [004](./specimens/004-hedge-martingale-ea) | 両建てヘッジ・変則マーチンゲール型EA（両建てロック / 逆行ナンピン加重平均決済） | 配列オーバーランのバグ（未定義動作）・最大185倍に膨張する過剰最適化された不規則ロット配列・両建てロックによる最大DDの意図的隠蔽。一撃のトレンドで口座全損する破滅構造 | https://zenn.dev/semura_lab/articles/55385603a74854 https://medium.com/@griffice3/ea-dissection-log-004-the-madness-of-a-185x-multiplier-dissecting-the-ruinous-structure-and-c7f9e4382056 |
 | [005](./specimens/005-alligator-trend-follower-ea) | 古典的な順張りトレンドフォロー型EA（Alligator指標 / 単一ポジション / ドテン決済） | 未確定足（インデックス0）参照によるリペイントの罠・昇順決済ループによる配列破壊バグ・マジックナンバー欠落による他ポジション誤爆。バックテストの数値を根本から歪め、実稼働を不全にする致命的な配線ミス | https://zenn.dev/semura_lab/articles/5678868c542bd9 https://medium.com/@griffice3/code-level-autopsy-of-sniperjaw-ea-when-flawed-wiring-destroys-trading-logic-991c9424533c |
+| [006](./specimens/006-stochastic-eclipse-ea) | ストキャスティクス系オシレーターEA（Stochastic Eclipse） | バックテストの虚像（CAP）の看破。過去データへの過剰最適化（カーブフィット）や、実稼働では再現不可能なロジックによって意図的に作り出された「見せかけの右肩上がり」をコードレベルで解剖・証明 | https://zenn.dev/semura_lab/articles/acd9b56a26c8c9 https://medium.com/@griffice3/code-level-autopsy-of-stochastic-eclipse-ea-uncovering-the-illusion-of-backtesting-58d629a6182e |
 
 ---
 
