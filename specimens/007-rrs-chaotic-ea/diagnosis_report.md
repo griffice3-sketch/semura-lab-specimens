@@ -1,7 +1,7 @@
 # 診断カルテ：検体007
 
 **診断機関：Semura Lab**
-**検体ID：007（RRS Chaotic EA / rajeeevrrs@gmail.com）**
+**検体ID：007**
 **診断方針：ロジック素体の生存能力を純粋診断する**
 
 ---
