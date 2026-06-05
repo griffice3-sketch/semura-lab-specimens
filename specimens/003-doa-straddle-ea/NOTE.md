@@ -29,8 +29,3 @@
 
 名目上のTP=2.0pips / SL=1.8pipsという極小レンジにおいて、平均スプレッド0.6pipsを考慮した実効損益は「利益1.4pips / 損失2.4pips」となる。この実効値における損益分岐勝率は約63.1%である。
 本検体には相場の優位性を判定する方向エッジが存在しないため、勝率がこの分岐点を超える数理的根拠はない。純粋なスプレッド摩擦と両建ての構造的損失が蓄積し、期待値はマイナスへ収束する。
-
-## 記事URL
-
-- Zenn(日本語): https://zenn.dev/semura_lab/articles/521617d71e3ec8
-- Medium(英語): https://medium.com/@griffice3/adding-prices-instead-of-subtracting-dissecting-a-logic-breakdown-in-an-unfiltered-straddle-ea-2f33da4d5a91
