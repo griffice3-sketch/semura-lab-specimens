@@ -29,8 +29,3 @@
 
 初期ロット0.1の場合、15段（150pips逆行）までナンピンが進むと累積ロットは803倍（80.3ロット）に達し、最終段の185倍ロット（18.5ロット）が直撃する。EURUSD等で年数回発生する150pipsのトレンド相場に遭遇した瞬間、数千万円規模のマイナス期待値を抱えて確実な口座全損（破綻）を迎える。
 また、全決済の目標値が加重平均+2.0pipsであるため、Semura Lab想定の平均スプレッド0.6pips×全保有ポジション数の摩擦コストを差し引くと、実質的な利益はほぼ相殺される。圧倒的な破綻リスクに対し、見返りが無に等しく、数学的期待値は決定的にマイナスへ収束する。
-
-## 記事URL
-
-- Zenn(日本語): https://zenn.dev/semura_lab/articles/55385603a74854
-- Medium(英語): https://medium.com/@griffice3/ea-dissection-log-004-the-madness-of-a-185x-multiplier-dissecting-the-ruinous-structure-and-c7f9e4382056
