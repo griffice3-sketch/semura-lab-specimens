@@ -28,8 +28,3 @@
 ## 数理
 
 名目はTP7/SL3.5の利大損小で損益分岐勝率は低い(コストゼロで約33%)。しかし方向エッジ不在(売り固定)のため、勝率がこの分岐点を超える根拠が存在せず、期待値は構造的に負。検体001(利小損大でRR反転)とは異なり、「RRは良好だがエッジ皆無で負ける」パターン。
-
-## 記事URL
-
-- Zenn(日本語): https://zenn.dev/semura_lab/articles/129a676f73d878
-- Medium(英語): https://medium.com/@griffice3/when-an-ea-has-no-strategy-dissecting-a-589-line-scalper-c559a4364f2c
