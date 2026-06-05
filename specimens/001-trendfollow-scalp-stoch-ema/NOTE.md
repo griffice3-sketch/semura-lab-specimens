@@ -34,8 +34,6 @@
 
 ## 診断レポート本体
 
-- zenn記事URL：https://zenn.dev/semura_lab/articles/ad67ce1279fe1a
-- medium記事URL：https://medium.com/@griffice3/anatomy-of-a-high-win-rate-ea-that-loses-on-a-live-account-reverse-engineering-a-b1cea8eb2d4f
 - レポートファイル：`diagnosis_report.md`（同フォルダ内）
 
 ## 位置づけ
