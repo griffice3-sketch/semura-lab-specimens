@@ -2,8 +2,11 @@
 # 🩺 Semura Lab 診断カルテ — 検体013
 
 **検体名:** `Silver_MSNR_v531Plus_AEU_VisualOnly_CleanStudy_v2`
+
 **分類:** XAUUSD / M5実行 / マレーシアSNR・コンフルエンス型
+
 **診断区分:** コードのみ提出（バックテスト統計・資産曲線・取引履歴 **添付なし**）
+
 **担当:** Semura Lab
 
 ---
